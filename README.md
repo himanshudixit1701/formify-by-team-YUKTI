@@ -1,4 +1,4 @@
-# Formable - Create, Share forms easily
+# Formify - Create, Share forms easily
 ## Google Forms Clone
 
 ![preview](preview.png)
